@@ -1,2 +1,2 @@
 # GROMACS
-codes and required file to run GROMACS in lunix system .
+Reusable Codes and Required files to run GROMACS in Lunix system.<br> Author - Shikhar Rana.
